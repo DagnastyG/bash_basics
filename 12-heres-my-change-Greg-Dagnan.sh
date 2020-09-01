@@ -4,9 +4,9 @@ echo "Want to See my Change?"
 read answer
 
 if [ "$answer" = "yes" ]; then
-   echo "Here's my change : I am still not Greg Dagnan)"
+   echo "Here's my new change : I am not Greg Dagnan)"
 else
-   echo "I have committed yet another change!"
+   echo "I committed another change!)"
 fi
 
 # here are the other string comparison operators
